@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/Hanh_trinh_lich_su_Dang.html" }
+  ]
+}
